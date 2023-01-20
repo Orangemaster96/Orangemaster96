@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orangemaster96
 - 👀 I’m interested in Software and application development
-- 🌱 I’m currently learning Python and SQL
+- 🌱 I’m currently learning C#, SQL, Python and JavaScript 
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me: pastrana.kevin.96@gmail.com
 
